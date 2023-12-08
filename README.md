@@ -1,3 +1,3 @@
-# First practice project in ReactJs
+<h2>Its a simple contact page. Referenced from youtube</h2> 
 
-This is the first project which I practice in ReactJS with the tutorials of Youtube 
+just for practicing ReactJs
