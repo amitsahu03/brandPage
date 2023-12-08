@@ -1,3 +1,2 @@
-<h2>Its a simple contact page. Referenced from youtube</h2> 
-
-just for practicing ReactJs
+<h3>Its my first project in ReactJs.</h3>
+It is completed using the tutorials of youtube to prcatice basic ReactJs
